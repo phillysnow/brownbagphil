@@ -1,0 +1,89 @@
+[
+  {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {}
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Fierce",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Ullamco et ad laboris duis anim cillum irure ea quis officia cillum do.",
+          "spans": []
+        }
+      ],
+      "button_link": {
+        "link_type": "Web",
+        "url": "http://twitter.com"
+      },
+      "button_label": "potatoes",
+      "main_image": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1571126770897-2d612d1f7b89"
+      },
+      "social_handle": "pretty"
+    },
+    "slice_type": "call_to_action"
+  },
+  {
+    "variation": "textRight",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {}
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Column",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Minim irure cillum culpa. Lorem ut nulla excepteur amet pariatur commodo enim eu duis sint occaecat quis do irure fugiat. Labore labore aute est voluptate ad.",
+          "spans": []
+        }
+      ],
+      "button_link": {
+        "link_type": "Web",
+        "url": "https://prismic.io"
+      },
+      "button_label": "breakfast",
+      "main_image": {
+        "dimensions": {
+          "width": 1200,
+          "height": 1200
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1607582278038-6bebbd4d7b72",
+        "Responsive": {
+          "dimensions": {
+            "width": 600,
+            "height": 500
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db"
+        }
+      },
+      "select_for_variation": "2"
+    },
+    "slice_type": "call_to_action"
+  }
+]

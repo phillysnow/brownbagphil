@@ -26,7 +26,9 @@
         "config": {
           "label": "Parent",
           "select": "document",
-          "customtypes": ["page"]
+          "customtypes": [
+            "page"
+          ]
         }
       },
       "slices": {
@@ -51,8 +53,34 @@
             },
             "text_with_image": {
               "type": "SharedSlice"
+            },
+            "call_to_action": {
+              "type": "SharedSlice"
             }
           }
+        }
+      }
+    },
+    "SEO": {
+      "seo_title": {
+        "type": "Text",
+        "config": {
+          "label": "SEO Title",
+          "placeholder": ""
+        }
+      },
+      "seo_description": {
+        "type": "Text",
+        "config": {
+          "label": "SEO Description",
+          "placeholder": ""
+        }
+      },
+      "slices1": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {}
         }
       }
     }

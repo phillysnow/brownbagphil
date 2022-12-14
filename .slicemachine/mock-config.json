@@ -86,6 +86,11 @@
       "default": {
         "primary": {}
       }
+    },
+    "CallToAction": {
+      "default": {
+        "primary": {}
+      }
     }
   },
   "_cts": {
